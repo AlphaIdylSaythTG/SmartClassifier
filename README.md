@@ -1,5 +1,6 @@
 <img width="792" alt="Screen Shot 2023-06-24 at 12 16 49 PM" src="https://github.com/AlphaIdylSaythTG/SmartClassifier/assets/123337877/37454f8a-b911-42ef-9050-50dd767ada9b">
-## Intelligent Classifier
+
+# Intelligent Classifier
 
 Intelligent Classifier is a web application that allows you to explore and visualize the impact of different machine learning algorithms on classification tasks. It provides an interactive interface to adjust algorithm parameters and observe decision boundaries, empowering you to make informed decisions in your classification projects.
 
